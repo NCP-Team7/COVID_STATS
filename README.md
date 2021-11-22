@@ -33,4 +33,5 @@ for a certain country.
     *  The magnitude by which each of the above three characteristics has
 increased or decreased in comparison to the previous day.
 *  Graphical representations of the past few days are shown in the form of charts.
+
 This project also incorporates receiving email notifications about vaccination availability at nearby vaccine centers.
